@@ -61,6 +61,10 @@ As a Full Stack Web Developer with a BS in Computer Science, I bring a comprehen
   - Phone: +48 22 390 64 08
   - Email: [vn@andersenlab.com](mailto:vn@andersenlab.com)
 
+## Download My CV
+
+You can download my CV [here](./mohamed%20eltayar.pdf).
+
 ---
 
 Feel free to connect with me or check out my projects here on GitHub!
